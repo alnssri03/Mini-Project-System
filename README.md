@@ -1,5 +1,5 @@
 # Mini-Project Management System
-The Mini-Project Management System is an online tool for MMU lecturers and students who are registered with the mini-project subject. The system allows lecturers to upload and manage mini-projects and allows students to view projects that match their specialization and the projects they are assigned to.
+The Mini-Project Management System is an tool for lecturers and students who are registered with the mini-project subject. The system allows lecturers to upload and manage mini-projects and allows students to view projects that match their specialization and the projects they are assigned to.
 ## 1. Requirements
 Java 8 or later <br>
 VS Code <br>
